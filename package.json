@@ -1,0 +1,19 @@
+{
+  "name": "gooogle-map-node-ejs",
+  "version": "1.0.0",
+  "description": "Google Map Intrigation With node and ejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "stupid@arnob",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
